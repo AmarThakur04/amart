@@ -1,0 +1,14 @@
+.colm{
+    border: 1px solid black;
+    background-color: azure;
+    border-radius: 4px;
+}
+
+.Row{
+    display: flex;
+    justify-content: space-between;
+
+}
+*{
+    background-color: aqua;
+}
